@@ -42,7 +42,7 @@ html {
   }
   
 
-@media screen and (max-width=768px){
+@media screen and (max-width: 768px){
 
     .main-bio-head{
         background-color: black;
@@ -57,7 +57,7 @@ html {
 
 }
 
-@media screen and (max-width=640px){
+@media screen and (max-width: 640px){
     
     .main-bio-head{
         background-color: black;
