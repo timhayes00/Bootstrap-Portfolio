@@ -1,0 +1,73 @@
+body{
+    background-image: url(spiration-light.png);
+    margin-bottom: 60px;
+}
+
+.main-bio-head{
+    background-color: black;
+    width: 20%;
+    height: 20%;
+    color: black;
+    margin:
+}
+
+.bio-pic{
+    float: left;
+}
+
+.connect-me{
+    float: right;
+    color: lightseagreen
+}
+
+
+.my-name{
+    background-color: lightseagreen;
+    color: black;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+  }
+
+  .footer {
+    position: absolute;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    background-color: #f5f5f5;
+  }
+  
+
+@media screen and (max-width=768px){
+
+    .main-bio-head{
+        background-color: black;
+        /* width: 20%;
+        height: 20%; */
+        color: black;
+        margin:
+    }
+    .connect-me{
+        float: left;
+    }
+
+}
+
+@media screen and (max-width=640px){
+    
+    .main-bio-head{
+        background-color: black;
+        /* width: 20%;
+        height: 20%; */
+        color: black;
+        margin:
+    }
+    .connect-me{
+        float: left;
+    }
+
+}
